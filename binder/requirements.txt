@@ -1,0 +1,1 @@
+-e git+https://github.com/cytoscape/py4cytoscape.git#egg=py4cytoscape-0.0.1
